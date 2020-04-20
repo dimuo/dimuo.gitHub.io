@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dimuo.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-19T07:18:37.763Z</updated>
+    <title>Jeffrey Zara&apos;s   小站</title>
+    <updated>2020-04-20T10:54:24.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dimuo.github.io"/>
     <link rel="self" href="https://dimuo.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://dimuo.github.io/images/avatar.png</logo>
     <icon>https://dimuo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Jeffrey Zara&apos;s   小站</rights>
     <entry>
         <title type="html"><![CDATA[ces]]></title>
         <id>https://dimuo.github.io/post/ces/</id>
